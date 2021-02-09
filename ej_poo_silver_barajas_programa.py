@@ -76,3 +76,5 @@ while True:
 
     except Exception as e:
         print(f"¡HA OCURRIDO UN ERROR!   --->   {type(e).__name__}:  {e}")
+
+# Comentario nuevo
